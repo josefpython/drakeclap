@@ -1,6 +1,3 @@
-#responsivepathing built by pythonjosef
-#look into exaple.py for usage
-
 import os
 
 def here(filename):
