@@ -1,3 +1,3 @@
 # drakeclap
-A programming language compilable into a .gif (the drake clapping one)
+A programming language compilable into a .gif (the drake clapping one) <br>
 Currently not being worked on cause I am taking a break
