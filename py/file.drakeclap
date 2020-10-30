@@ -1,0 +1,1 @@
+set add1 comma input endline set add1 add1 comma input endline set add1 add1 add1 comma add1 sub1 endline for get add1 endline for get add1 add1 endline set add1 add1 add1 comma get add1 add1 add1 plus1 endline endstatement endline endstatement endline print get add1 add1 add1 endline 
